@@ -1,6 +1,13 @@
 该项目fork自雷神 由于有些bug fork重新修复一版本
 this project forked from LeiXiaohua,i forked this for fixing some bugs.
 
+# 项目环境
+ffmpeg
+SDL2-2.0.9
+vs2019
+
+tips:Release有点问题,Debug是ok的
+
 # 雷神原话
 最简单的基于FFmpeg的视频播放器 2
 Simplest FFmpeg Player 2
